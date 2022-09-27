@@ -1,0 +1,8 @@
+x-vector/exp
+x-vector/mfcc
+x-vector/mfcc_16k
+x-vector/RIRS_NOISES
+x-vector/extra
+I-vector/exp
+I-vector/mfcc
+I-vector/constrained_Ivector_model
