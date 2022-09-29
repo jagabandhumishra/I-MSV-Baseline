@@ -1,6 +1,6 @@
 # Instructions to run baseline I-vector and X-vector systems.
 ## Pre-requisites:
-1. Kaldi toolkit should be installed from https://github.com/kaldi-asr/kaldi
+1. Kaldi toolkit should be installed from https://github.com/kaldi-asr/kaldi && procedures of installation https://github.com/jagabandhumishra/IEEE-Summer-School/blob/master/Pre-requisite%20session%20%26%20package%20installation.docx
 2. Musan noise corpus must be downloaded from https://www.openslr.org/17/
 3. IITG MV development and enroll database should be downloaded from https://drive.google.com/drive/folders/1YcBY0SgO2ErnMcHrvTPnjFkENX0RUMyY
 4. IITG MV public test data should be downloaded from https://drive.google.com/drive/folders/1n1zZYvx8rFw0vUy20vGFMLL-kQUbV3CB
