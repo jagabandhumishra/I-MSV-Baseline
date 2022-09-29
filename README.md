@@ -40,5 +40,5 @@
 
 ## Test with pretrained Voxceleb model.
 1. Set the trial file location in voxceleb_testing.sh script.
-2. Execute the run script.(./run.sh)
+2. Execute the run script.(./voxceleb_testing.sh)
 9. EER will be displayed on the terminal.
