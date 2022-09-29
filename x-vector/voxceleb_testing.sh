@@ -27,7 +27,7 @@ if [ $Mfcc_VAD == 1 ]; then
   steps/cleanup/split_long_utterance.sh --seg-length 50 data/dev_unsplit data/dev
   
   for name in dev dev_unsplit enroll test; do
-    steps/make_mfcc.sh --write-utt2num-frames true --mfcc-config conf/mfcc.conf --nj 40 --cmd "$train_cmd" \
+    steps/make_mfcc.sh --write-utt2num-frames true --mfcc-config conf/mfcc_16k.conf --nj 40 --cmd "$train_cmd" \
       data/${name} exp/make_mfcc $mfccdir
     utils/fix_data_dir.sh data/${name}
     sid/compute_vad_decision.sh --nj 40 --cmd "$train_cmd" \
