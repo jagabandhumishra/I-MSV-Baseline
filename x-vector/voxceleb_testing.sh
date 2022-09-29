@@ -10,7 +10,7 @@ vaddir=`pwd`/mfcc
 dev=data/dev
 enroll=data/enroll
 test=data/test
-trial_file='/home/iiitdwd/kaldiSpace1/kaldi/egs/sre16/v2/correct_trial_file'
+trial_file='/home/iiitdwd/kaldiSpace1/kaldi/egs/I-MSV/trial_file'
 nnet_dir=voxceleb_model/xvector_nnet_1a
 
 stage=0

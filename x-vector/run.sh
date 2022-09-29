@@ -10,15 +10,15 @@ vaddir=`pwd`/mfcc
 dev=data/dev
 enroll=data/enroll
 test=data/test
-trial_file='/home/iiitdwd/kaldiSpace1/kaldi/egs/sre16/v2/correct_trial_file'
-nnet_dir=exp/v6_dropout_10ep/xvector_nnet_1a
+trial_file='/home/iiitdwd/kaldiSpace1/kaldi/egs/I-MSV/trial_file'
+nnet_dir=exp/xvector_nnet_1a
 
 #Set switches
 
 stage=0
 Mfcc_VAD=1
-Augmentation=0
-prepare_feats_for_egs=0
+Augmentation=1
+prepare_feats_for_egs=1
 extract_xvectors=1
 compute_mean=1
 Results_generation=1
