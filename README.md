@@ -1,7 +1,6 @@
 # Instructions to run baseline I-vector and X-vector systems.
 ## Pre-requisites:
 1. Kaldi toolkit should be installed from https://github.com/kaldi-asr/kaldi & procedures of installation https://github.com/jagabandhumishra/IEEE-Summer-School/blob/master/Pre-requisite%20session%20%26%20package%20installation.docx
-2. Musan noise corpus must be downloaded from https://www.openslr.org/17/
 3. I-vector trained model can be downloaded from https://drive.google.com/drive/folders/12d8hK6kyqhr4Thomod9MmpKwTSGZdyMA?usp=sharing
 
 ## Train and test an I-vector system
