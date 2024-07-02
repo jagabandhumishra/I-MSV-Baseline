@@ -1,7 +1,7 @@
 # Instructions to run baseline I-vector and X-vector systems.
 ## Pre-requisites:
 1. Kaldi toolkit should be installed from https://github.com/kaldi-asr/kaldi & procedures of installation https://github.com/jagabandhumishra/IEEE-Summer-School/blob/master/Pre-requisite%20session%20%26%20package%20installation.docx
-3. I-vector trained model can be downloaded from https://drive.google.com/drive/folders/12d8hK6kyqhr4Thomod9MmpKwTSGZdyMA?usp=sharing
+3. I-vector trained model can be downloaded from https://drive.google.com/file/d/1j7hSEmMBvHSyRGm81u6fi8BJATOlo5VG/view?usp=sharing 
 
 ## Train and test an I-vector system
 1. Git clone the repository
